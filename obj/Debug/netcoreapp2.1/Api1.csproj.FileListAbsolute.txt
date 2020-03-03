@@ -1,0 +1,14 @@
+C:\Users\Michal\Websites\c#\Api1\Api1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Michal\Websites\c#\Api1\Api1\bin\Debug\netcoreapp2.1\Api1.deps.json
+C:\Users\Michal\Websites\c#\Api1\Api1\bin\Debug\netcoreapp2.1\Api1.runtimeconfig.json
+C:\Users\Michal\Websites\c#\Api1\Api1\bin\Debug\netcoreapp2.1\Api1.runtimeconfig.dev.json
+C:\Users\Michal\Websites\c#\Api1\Api1\bin\Debug\netcoreapp2.1\Api1.dll
+C:\Users\Michal\Websites\c#\Api1\Api1\bin\Debug\netcoreapp2.1\Api1.pdb
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.csprojAssemblyReference.cache
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.RazorAssemblyInfo.cache
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.RazorAssemblyInfo.cs
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.AssemblyInfoInputs.cache
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.AssemblyInfo.cs
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.RazorTargetAssemblyInfo.cache
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.dll
+C:\Users\Michal\Websites\c#\Api1\Api1\obj\Debug\netcoreapp2.1\Api1.pdb
